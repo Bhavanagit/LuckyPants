@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\SAAS" version="1.8.0_05">
+<bootpath>
+<entry path="C:\SAAS\lib\resources.jar"/>
+<entry path="C:\SAAS\lib\rt.jar"/>
+<entry path="C:\SAAS\lib\sunrsasign.jar"/>
+<entry path="C:\SAAS\lib\jsse.jar"/>
+<entry path="C:\SAAS\lib\jce.jar"/>
+<entry path="C:\SAAS\lib\charsets.jar"/>
+<entry path="C:\SAAS\lib\jfr.jar"/>
+<entry path="C:\SAAS\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\SAAS\lib\ext"/>
+<entry path="C:\windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\SAAS\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

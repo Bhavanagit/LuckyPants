@@ -1,0 +1,15 @@
+<%@ page import="com.luckypants.model.Book"%>
+Lucky Pants Books
+<br/>
+<br/>
+Create a Book
+<br/>
+<br/>
+<form action="SampleMyPants.jsp" method="POST" >
+Title:          <input type="text" name="Title"><br/>
+Author:         <input type="text" name="Author"><br/>
+Cost:           <input type="text" name="Cost"><br/>
+User Rating:    <input type="text" name="User Rating"><br/>
+Number Of Pages:<input type="text" name="Number Of Pages"><br/>
+                <input type="submit" value="Create My Book"><br/>
+</form>

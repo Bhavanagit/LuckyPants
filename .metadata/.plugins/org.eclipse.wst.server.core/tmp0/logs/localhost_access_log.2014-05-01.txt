@@ -1,0 +1,4 @@
+127.0.0.1 - - [01/May/2014:23:18:39 -0400] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [01/May/2014:23:18:41 -0400] "GET /LuckyPants/WEB-INF/classes/test/MongoTest.java HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [01/May/2014:23:23:16 -0400] "GET /LuckyPants/rest/books HTTP/1.1" 200 40
+0:0:0:0:0:0:0:1 - - [01/May/2014:23:23:16 -0400] "GET /favicon.ico HTTP/1.1" 404 973
